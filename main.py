@@ -1,11 +1,2 @@
-#find bug
-"""ofhdofhdfouhdfoshfosf
-kfhofuhwofhwofhwofhwofhwofhwoefhow
-wkfowfjojfowjfojfoifjifjiefejpwfjpwijfpw
-epfwoifwoefpiifjpijfifjoifjifjiwefjwipejfpw
-jfwijfiojfksdjfskldflfnljnvdn
-0ureg0e8gye9gyeruoghiughrigi
-fiehgeighigheghehgeheigheigh"""
-
 print("hello worlg")
 print('fijhoefuheoufhohfofhdoff')

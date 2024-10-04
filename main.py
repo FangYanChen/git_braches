@@ -1,8 +1,1 @@
-#find bug
-"""ofhdofhdfouhdfoshfosf
-kfhofuhwofhwofhwofhwofhwofhwoefhow
-wkfowfjojfowjfojfoifjifjiefejpwfjpwijfpw
-epfwoifwoefpiifjpijfifjoifjifjiwefjwipejfpw
-jfwijfiojfksdjfskldflfnljnvdn
-0ureg0e8gye9gyeruoghiughrigi
-fiehgeighigheghehgeheigheigh"""
+#bug is not there
